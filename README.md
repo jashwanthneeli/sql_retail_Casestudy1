@@ -1,1 +1,1 @@
-# sql_retail_Casestudy1
+# sql Casestudy1-retail
